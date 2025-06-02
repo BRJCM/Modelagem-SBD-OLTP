@@ -1,5 +1,6 @@
 
 -- Esquema de Banco de Dados: Sistema de Locadora de Veículos
+-- Brian José Costa de Medeiro                     DRE:121087678
 
 
 -- 1. Clientes (Pessoa Física ou Jurídica)
